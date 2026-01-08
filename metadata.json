@@ -1,0 +1,8 @@
+{
+  "name": "Paws Connect",
+  "description": "A comprehensive community platform for pet lovers and service providers featuring social feeds, AI-powered veterinary Q&A, a curated marketplace, educational resources, and local pet events.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
